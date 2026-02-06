@@ -5,3 +5,7 @@ rag/
 # Environment variables / secrets
 .env
 *.env
+
+#pycache
+__pycache__/
+*.pyc
