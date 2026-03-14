@@ -9,3 +9,5 @@ rag/
 #pycache
 __pycache__/
 *.pyc
+
+logs/
